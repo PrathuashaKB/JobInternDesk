@@ -1,10 +1,9 @@
 # JobInternDesk
 🚀*Search Your Job with Us!*
 
-<img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/Screenshots/Capture.PNG" width="80%">
-
 JobInternDesk is a web-based platform designed to help users find job and internship opportunities. It allows job seekers to explore openings, apply online, and access a chatbot for quick assistance. The platform is built with a user-friendly interface and provides a seamless experience for discovering career opportunities.
 
+<img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/Screenshots/Capture.PNG" width="80%">
 ### Overview
 JobInternDesk is an interactive online job portal designed to help job seekers and students search for jobs and internships efficiently. The platform provides a structured, category-based job search experience, allowing users to filter opportunities based on their preferences.
 With an easy-to-navigate user interface, JobInternDesk ensures that users can:
