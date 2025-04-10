@@ -17,7 +17,11 @@ JobInternDesk is a web-based platform designed to help users find job and intern
 
 <img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/Screenshots/Capture.PNG" width="80%">
 
-### Overview
+[PROJECT DOCUMENTATION](https://github.com/PrathuashaKB/JobInternDesk/blob/main/concept%20note.pdf), you can find the complete project documentation here.
+
+[PROJECT PRESENTATION](https://github.com/PrathuashaKB/JobInternDesk/blob/main/JOBINTERNDESK-PPT.pptx), you can find the complete project presentation here.
+
+### Overview :
 JobInternDesk is an interactive online job portal designed to help job seekers and students search for jobs and internships efficiently. The platform provides a structured, category-based job search experience, allowing users to filter opportunities based on their preferences.
 With an easy-to-navigate user interface, JobInternDesk ensures that users can:
 
@@ -31,11 +35,11 @@ With an easy-to-navigate user interface, JobInternDesk ensures that users can:
 
 This project was developed as part of the IBM SkillsBuild Internship (June 2023 – July 2023) in collaboration with the DeskInterns team. It focuses on front-end web development, leveraging technologies like HTML, CSS, JavaScript, Bootstrap, and jQuery to deliver a dynamic and engaging job search experience.
 
-### Website 
+### Website :
 🔗 [JobInternDesk Website](https://jobinterndesk7internship.on.drv.tw/www.JobInternDesk.com/JobInternDesk%20Website/)
 
 
-### Project Screenshots & UI Preview
+### Project Screenshots & UI Preview :
 Below are some visual previews of the JobInternDesk website, showcasing its key features and user interface.
 
 1. Landing Page with Chatbot -
@@ -62,7 +66,7 @@ Users can filter jobs by category, making it easier to find relevant opportuniti
 A user-friendly form where visitors can submit queries and get in touch with the team.
 <img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/Screenshots/9.%20Contact-Us.PNG" width="50%">
 
-### Technologies Used
+### Technologies Used :
 
 1. HTML 
 
@@ -74,7 +78,7 @@ A user-friendly form where visitors can submit queries and get in touch with the
 
 5. jQuery
 
-### Contributors (Desk Interns)
+### Contributors (Desk Interns) :
 1. Prathuasha K. B.
 
 2. Disha Bhargavi B. S.
