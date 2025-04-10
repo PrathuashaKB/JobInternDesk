@@ -1,7 +1,19 @@
 # JobInternDesk
+<div>
+  <p align="center">
+    <img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/img/JobInternDesk%20Logo.png" width="800"> 
+  </p>
+</div>
+
 🚀*Search Your Job with Us!*
 
 JobInternDesk is a web-based platform designed to help users find job and internship opportunities. It allows job seekers to explore openings, apply online, and access a chatbot for quick assistance. The platform is built with a user-friendly interface and provides a seamless experience for discovering career opportunities.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 <img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/Screenshots/Capture.PNG" width="80%">
 
@@ -77,7 +89,7 @@ A user-friendly form where visitors can submit queries and get in touch with the
 
 7. Vinayaka M. Dodmani
 
-**"I sincerely thank IBM SkillsBuild for the opportunity to work on JobInternDesk as part of my internship. This experience has helped me enhance my web development skills and collaborate effectively with my team, DeskInterns."**
+**I sincerely thank IBM SkillsBuild for the opportunity to work on JobInternDesk as part of my internship. This experience has helped me enhance my web development skills and collaborate effectively with my team, DeskInterns.**
 
 <img src="https://github.com/PrathuashaKB/JobInternDesk/blob/main/IBM%20SkillsBuild%20and%20CSRBOX%20Academic%20Internship%20Certificate.jpg" width="50%">
 
